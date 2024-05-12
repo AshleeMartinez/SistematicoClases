@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.exe
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.deps.json
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.runtimeconfig.json
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.dll
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.pdb
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.dll
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\refint\PruebaSistematica.dll
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.pdb
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\ref\PruebaSistematica.dll
